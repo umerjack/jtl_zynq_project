@@ -1,0 +1,17 @@
+# Vivado generated files
+vivado/project_build/
+vivado/*.log
+vivado/*.jou
+vivado/*.str
+vivado*.log
+vivado*.jou
+vivado*.str
+
+# Vitis generated workspace
+vitis/workspace/
+
+# General generated files
+*.log
+*.jou
+*.str
+*.tmp
